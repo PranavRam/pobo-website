@@ -144,7 +144,7 @@ class Index extends React.Component {
             <li><Link className="button button-white">Notify Me</Link></li>
           </ul> */}
 
-          <form method="POST" action="https://formspree.io/pranav.ram7@gmail.com">
+          <form method="POST" action="https://formspree.io/pranav@pobosocial.com">
             <ul className="flex-outer">
               <li>
                 <label htmlFor="name">
